@@ -1,0 +1,11 @@
+{
+  "name": "ars technica",
+  "version": "1",
+  "icons": { "128": "128.png" , "16": "16.png"
+},
+  "app": {
+    "launch": {
+      "web_url": "http://arstechnica.com/"
+    }
+  }
+}

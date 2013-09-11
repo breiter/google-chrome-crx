@@ -1,0 +1,11 @@
+{
+  "name": "The Colbert Report",
+  "version": "1",
+  "icons": { "128": "Colbert-128.png" , "16": "Colbert-16.png"
+},
+  "app": {
+    "launch": {
+      "web_url": "http://www.colbertnation.com/full-episodes/"
+    }
+  }
+}
